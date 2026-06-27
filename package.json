@@ -1,0 +1,16 @@
+{
+  "name": "digital-terrarium",
+  "version": "1.0.0",
+  "description": "GitHub contribution data visualised as a bioluminescent SVG terrarium",
+  "type": "module",
+  "scripts": {
+    "generate": "node generate-terrarium.js"
+  },
+  "dependencies": {
+    "@octokit/graphql": "^8.1.1"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
