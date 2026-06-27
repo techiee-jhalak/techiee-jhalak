@@ -29,7 +29,7 @@ jobs:
           node-version: "20"
 
       - name: Install npm dependencies
-        run: npm install
+        run: npm install --no-package-lock
 
       - name: Run terrarium generator
         env:
