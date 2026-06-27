@@ -23,15 +23,13 @@ jobs:
         with:
           token: ${{ secrets.TERRARIUM_PAT }}
 
-      - name: Set up Node.js 22 LTS
+      - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "22"
-          cache: "npm"
-          cache-dependency-path: package-lock.json
+          node-version: "20"
 
       - name: Install npm dependencies
-        run: npm ci --prefer-offline
+        run: npm install
 
       - name: Run terrarium generator
         env:
