@@ -214,4 +214,10 @@
   <g id="stats-table" transform="translate(358,115)"
     font-family="'Segoe UI Mono', 'SF Mono', monospace" font-size="9" fill="#5a8a9a">
     <text x="0" y="0"  font-weight="600" letter-spacing="1" opacity="0.9">COMMITS</text>
-    <text
+    <text id="stat-w1" x="0" y="16" opacity="0.8">W1  —</text>
+    <text id="stat-w2" x="0" y="30" opacity="0.8">W2  —</text>
+    <text id="stat-w3" x="0" y="44" opacity="0.8">W3  —</text>
+    <text id="stat-w4" x="0" y="58" opacity="0.8">W4  —</text>
+  </g>
+
+</svg>
