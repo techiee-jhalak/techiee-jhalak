@@ -177,13 +177,19 @@
     </g>
 
     <g id="slot-3" transform="translate(260,260)">
-      <!-- PLANT:SPROUT -->
-      <ellipse cx="0" cy="0" rx="10" ry="3.5" fill="#3d2010" opacity="0.7"/>
+      <!-- PLANT:FERN -->
+      <ellipse cx="0" cy="0" rx="13" ry="4" fill="#3a2010" opacity="0.75"/>
       <g filter="url(#softglow)">
-        <path d="M 0,0 Q 0,-20 -10,-28" stroke="#4ade80" stroke-width="2.2" fill="none" stroke-linecap="round"/>
-        <path d="M 0,-10 Q -12,-14 -14,-22" stroke="#4ade80" stroke-width="1.6" fill="none" stroke-linecap="round"/>
-        <path d="M 0,-10 Q  10,-12  11,-20" stroke="#86efac" stroke-width="1.4" fill="none" stroke-linecap="round"/>
-        <ellipse cx="-10" cy="-28" rx="5" ry="3" fill="#22c55e" opacity="0.85" transform="rotate(-25,-10,-28)"/>
+        <path d="M 0,0 Q 4,-50 0,-75" stroke="#16a34a" stroke-width="2" fill="none" stroke-linecap="round"/>
+        <path d="M 2,-18 Q -16,-25 -18,-38" stroke="#15803d" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+        <path d="M 2,-34 Q -14,-40 -15,-52" stroke="#22c55e" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+        <path d="M 1,-50 Q -10,-54 -10,-64" stroke="#4ade80" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+        <path d="M 2,-22 Q  18,-28  20,-40" stroke="#16a34a" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+        <path d="M 2,-38 Q  15,-44  16,-55" stroke="#22c55e" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+        <ellipse cx="-17" cy="-38" rx="5" ry="2.5" fill="#4ade80" opacity="0.6" transform="rotate(-40,-17,-38)"/>
+        <ellipse cx="19"  cy="-40" rx="5" ry="2.5" fill="#4ade80" opacity="0.6" transform="rotate(40,19,-40)"/>
+        <ellipse cx="-9"  cy="-64" rx="4" ry="2"   fill="#86efac" opacity="0.7" transform="rotate(-30,-9,-64)"/>
+        <path d="M 0,-75 Q 6,-82 4,-88" stroke="#4ade80" stroke-width="1.2" fill="none" stroke-linecap="round"/>
       </g>
     </g>
 
@@ -282,7 +288,7 @@
 
   <text id="last-updated" x="260" y="324"
     font-family="'Segoe UI Mono', 'SF Mono', monospace"
-    font-size="9.5" text-anchor="middle" fill="#3a5a6a" opacity="0.7">last updated: Mon, 29 Jun 2026 19:48 UTC</text>
+    font-size="9.5" text-anchor="middle" fill="#3a5a6a" opacity="0.7">last updated: Tue, 30 Jun 2026 02:44 UTC</text>
 
   <g transform="translate(22,115)" font-family="'Segoe UI', system-ui, sans-serif" font-size="9" fill="#5a8a9a">
     <text x="0" y="0"  opacity="0.9" font-weight="600" letter-spacing="1">LEGEND</text>
@@ -298,10 +304,10 @@
   <g id="stats-table" transform="translate(358,115)"
     font-family="'Segoe UI Mono', 'SF Mono', monospace" font-size="9" fill="#5a8a9a">
     <text x="0" y="0"  font-weight="600" letter-spacing="1" opacity="0.9">COMMITS</text>
-    <text id="stat-w1" x="0" y="16" opacity="0.8">W1   64  ██████████</text>
-    <text id="stat-w2" x="0" y="30" opacity="0.8">W2    6  ██</text>
+    <text id="stat-w1" x="0" y="16" opacity="0.8">W1   47  ██████████</text>
+    <text id="stat-w2" x="0" y="30" opacity="0.8">W2   23  ████████</text>
     <text id="stat-w3" x="0" y="44" opacity="0.8">W3    1  </text>
-    <text id="stat-w4" x="0" y="58" opacity="0.8">W4   12  ████</text>
+    <text id="stat-w4" x="0" y="58" opacity="0.8">W4    9  ███</text>
   </g>
 
 </svg>
