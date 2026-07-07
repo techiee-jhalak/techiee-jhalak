@@ -338,7 +338,7 @@
 
   <text id="last-updated" x="260" y="324"
     font-family="'Segoe UI Mono', 'SF Mono', monospace"
-    font-size="9.5" text-anchor="middle" fill="#3a5a6a" opacity="0.7">last updated: Mon, 06 Jul 2026 19:46 UTC</text>
+    font-size="9.5" text-anchor="middle" fill="#3a5a6a" opacity="0.7">last updated: Tue, 07 Jul 2026 02:28 UTC</text>
 
   <g transform="translate(22,115)" font-family="'Segoe UI', system-ui, sans-serif" font-size="9" fill="#5a8a9a">
     <text x="0" y="0"  opacity="0.9" font-weight="600" letter-spacing="1">LEGEND</text>
@@ -354,10 +354,10 @@
   <g id="stats-table" transform="translate(358,115)"
     font-family="'Segoe UI Mono', 'SF Mono', monospace" font-size="9" fill="#5a8a9a">
     <text x="0" y="0"  font-weight="600" letter-spacing="1" opacity="0.9">COMMITS</text>
-    <text id="stat-w1" x="0" y="16" opacity="0.8">W1   43  ██████████</text>
-    <text id="stat-w2" x="0" y="30" opacity="0.8">W2   64  ██████████</text>
-    <text id="stat-w3" x="0" y="44" opacity="0.8">W3    6  ██</text>
-    <text id="stat-w4" x="0" y="58" opacity="0.8">W4    8  ███</text>
+    <text id="stat-w1" x="0" y="16" opacity="0.8">W1   39  ██████████</text>
+    <text id="stat-w2" x="0" y="30" opacity="0.8">W2   51  ██████████</text>
+    <text id="stat-w3" x="0" y="44" opacity="0.8">W3   23  ████████</text>
+    <text id="stat-w4" x="0" y="58" opacity="0.8">W4    1  </text>
   </g>
 
 </svg>
