@@ -1,17 +1,32 @@
-# Hi there 👋, I'm Jhalak Omar!
+# <h align="center">Hi there 👋, I'm Jhalak Omar! 🚀</h>
 
-<img src="https://komarev.com/ghpvc/?username=techiee-jhalak&color=blueviolet&style=flat-square" alt="Profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=techiee-jhalak&color=cyan&style=flat-square" alt="Profile views" />
+</p>
+
+---
+
+### 💻 LeetCode Stats & Activity
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=jhalak_online&theme=dark&hide_border=true&custom_bg=0D1117" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techiee-jhalak&theme=react-dark&hide_border=true&area=true" alt="Contribution Activity Graph" />
+</p>
+
+---
 
 ### 🚀 About Me
 * 🌱 I’m currently building awesome full-stack web and Python applications.
 * 👯 I’m looking to collaborate on open-source projects and developer tools.
 * 💬 Ask me about Python, JavaScript, and building clean user experiences.
-* 📫 How to reach me: [jhalakomar2006@gmail.com](mailto:jhalakomar2006@gmail.com)
+* 📫 How to reach me: jhalakomar2006@gmail.com
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -21,12 +36,12 @@
 
 ---
 
-### 📊 GitHub Stats & Metrics
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=techiee-jhalak&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+### 📊 GitHub Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=techiee-jhalak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techiee-jhalak&theme=radical&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techiee-jhalak&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
