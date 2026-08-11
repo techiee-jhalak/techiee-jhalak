@@ -24,17 +24,24 @@
 ---
 
 ### 🏆 Competitive Programming & Stats
-<p align="center">
-  <a href="https://leetcode.com/jhalak_online">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/jhalakompv7r">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=techiee-jhalak&theme=react-dark&hide_border=true&area=true" alt="Contribution Activity Graph" />
 </p>
+
+
+
+<p align="center">
+  <a href="https://leetcode.com/jhalak_online">
+    <img src="https://leetcard.jacoblin.cool/jhalak_online?theme=dark&font=Syne" alt="LeetCode Stats Card" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/jhalakompv7r">
+    <img src="https://img.shields.io/badge/GeeksforGeeks%20Profile-jhalakompv7r-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile Badge" />
+  </a>
+</p>
+
 
 ---
 
@@ -73,11 +80,7 @@
 </p>
 
 ---
-
 ### 📊 GitHub Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techiee-jhalak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=techiee-jhalak&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
