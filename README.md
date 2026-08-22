@@ -17,7 +17,7 @@
 
 ### 🎯 About Me
 * 💻 Currently building Full Stack Applications and strengthening problem-solving skills through DSA.
-* 🚀 Exploring Advanced DSA, Backend Systems, and Machine Learning fundamentals.
+* 🚀 Exploring Advanced DSA, Backend Systems, and Machine Learning fundamentals. 
 * 🤝 Open to collaborating on impactful tech projects, hackathons, and open-source contributions.
 * 📫 Reach me at: **jhalakomar2006@gmail.com**
 
