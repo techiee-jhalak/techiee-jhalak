@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,2,10,25,30&height=220&section=header&text=Jhalak%20Omar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20|%20Competitive%20Programmer%20|%20AI%20Learner&descSize=16&descAlignY=58&animation=fadeIn" alt="Header Banner" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=techiee-jhalak&color=blue&style=flat-square" alt="Profile views" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jhalak-omar-9a099138b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvHOGx0peRwuJSRuaoEy1qA%3D%3D"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
